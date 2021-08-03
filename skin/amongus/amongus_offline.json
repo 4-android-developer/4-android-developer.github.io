@@ -1,0 +1,877 @@
+{
+  "Ads": [
+    {
+      "select_ads": "",
+      "select_ads_banner": "",
+      "select_ads_native": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-6026900188964442/7814713864",
+      "admob_nativeid": "ca-app-pub-6026900188964442/3875468857",
+      "admob_nativeid_besar": "ca-app-pub-6026900188964442/9482663537",
+      "admob_openid": "ca-app-pub-6026900188964442/4996978839",
+      "interval_intertitial": "3",
+      "startappid": "",
+      "fan_inter": "",
+      "fan_banner_native": "",
+      "fan_native": "",
+      "mopub_banner": "",
+      "mopub_banner_medium": "",
+      "mopub_inter": "",
+      "applovin_mrec": "ecaf2ae5b9a19203",
+      "applovin_banner": "eced39ff5b6e7d2c",
+      "applovin_inter": "12943b33f050219e",
+      "unityID": "4230947",
+      "unity_inter": "Interstitial_Android",
+      "unity_banner": "Banner_Android",
+      "select_exit": "1",
+      "icon_promote": "https://play-lh.googleusercontent.com/PaPDA3fwetBeFtzA9mLxY7YfZol1nesCyuIASLZdJGwpVbTDYZBM-zMiETcb1f1v77A=s180-rw",
+      "judul_promote": "Spiderman Skin MCPE",
+      "deskripsi_promote": "Spiderman",
+      "gambar_promote": "https://play-lh.googleusercontent.com/PaPDA3fwetBeFtzA9mLxY7YfZol1nesCyuIASLZdJGwpVbTDYZBM-zMiETcb1f1v77A=s180-rw",
+      "link_promote": "https://play.google.com/store/apps/details?id=com.starladev.spiderman.skin.mcpe",
+      "on_off_category": "0",
+      "on_off_more_app": "1",
+      "tutorial": "https://sites.google.com/view/tutorialchangeskinmcpe/home",
+      "hpk_bambank": "",
+      "hpk_admob1": "",
+      "hpk_admob2": "",
+      "hpk_admob3": "",
+      "hpk_admob4": "",
+      "hpk_admob5": ""
+    }
+  ],
+  "More": [
+    {
+      "id": 1,
+      "title": "Spiderman Skins",
+      "image": "https://play-lh.googleusercontent.com/PaPDA3fwetBeFtzA9mLxY7YfZol1nesCyuIASLZdJGwpVbTDYZBM-zMiETcb1f1v77A=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.spiderman.skin.mcpe"
+    },
+    {
+      "id": 2,
+      "title": "Medieval Skins",
+      "image": "https://play-lh.googleusercontent.com/fkDUSiFtkV2GovgvAoNGCv1Oe3_2-W9yMEUZsF-SpZ_hIEFStlGHhQr-e3AI4uY13Hw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.medieval.skin.mcpe"
+    },
+    {
+      "id": 3,
+      "title": "Kamen Rider Skins",
+      "image": "https://play-lh.googleusercontent.com/ZFvcBrr7Ic5Uf5yjOhMSxNL93BaCWKmLh4k8NjgVMoXh3ESnCBnGTDlnBVneJLnbFQ-d=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.kamen.rider.skin.mcpe"
+    },
+    {
+      "id": 4,
+      "title": "Frost Skins",
+      "image": "https://play-lh.googleusercontent.com/Bngf6kq9BVb5GuMk18b4S7NvdU_OEtXMfeCZdgEkPzK58avjG5nmxA53FLW-KkT-jA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.gamaotanker.frostdiamond_skin_minecraft"
+    },
+    {
+      "id": 5,
+      "title": "Naruto Skins",
+      "image": "https://play-lh.googleusercontent.com/zC7FbH7GX5p2jJBw2tKZ-eiI9AyWWazWWL5RPJj4oXfKMWqbrNhYFohgEl9042NzRg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.gamaotanker.naruto_skin_minecraft"
+    },
+    {
+      "id": 6,
+      "title": "Akatsuki Skins",
+      "image": "https://play-lh.googleusercontent.com/J3W4hO1xi7D-z_SbvoXeNCSIuGMqbPKczyVj6QxNj3HFcO44sAx3XysCKVO7QcHTVUrD=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.gamaotanker.akatsuki_skin_minecraft"
+    },
+    {
+      "id": 7,
+      "title": "Aestethic Skins",
+      "image": "https://play-lh.googleusercontent.com/Q4aB_6jkmdxQP22UWFnesB-K1dvZ-ouLTSZBNDx2IlIFSPbnJvEIln7DrcIhwse8rK5p=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.gamaotanker.Amongus_skin_minecraft"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "minecraft google play",
+      "image": "https://lh3.googleusercontent.com/d/https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "mcpe play",
+      "image": "https://lh3.googleusercontent.com/d/http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "minecraft play store",
+      "image": "https://lh3.googleusercontent.com/d/file:///android_asset/image/car.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_001.png",
+      "image": "file:///android_asset/view/amongus_001.png",
+      "title": "Amongus_001.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_002.png",
+      "image": "file:///android_asset/view/amongus_002.png",
+      "title": "Amongus_002.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_003.png",
+      "image": "file:///android_asset/view/amongus_003.png",
+      "title": "Amongus_003.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_004.png",
+      "image": "file:///android_asset/view/amongus_004.png",
+      "title": "Amongus_004.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_005.png",
+      "image": "file:///android_asset/view/amongus_005.png",
+      "title": "Amongus_005.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_006.png",
+      "image": "file:///android_asset/view/amongus_006.png",
+      "title": "Amongus_006.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_007.png",
+      "image": "file:///android_asset/view/amongus_007.png",
+      "title": "Amongus_007.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_008.png",
+      "image": "file:///android_asset/view/amongus_008.png",
+      "title": "Amongus_008.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_009.png",
+      "image": "file:///android_asset/view/amongus_009.png",
+      "title": "Amongus_009.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_010.png",
+      "image": "file:///android_asset/view/amongus_010.png",
+      "title": "Amongus_010.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_011.png",
+      "image": "file:///android_asset/view/amongus_011.png",
+      "title": "Amongus_011.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_012.png",
+      "image": "file:///android_asset/view/amongus_012.png",
+      "title": "Amongus_012.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_013.png",
+      "image": "file:///android_asset/view/amongus_013.png",
+      "title": "Amongus_013.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_014.png",
+      "image": "file:///android_asset/view/amongus_014.png",
+      "title": "Amongus_014.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_015.png",
+      "image": "file:///android_asset/view/amongus_015.png",
+      "title": "Amongus_015.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_016.png",
+      "image": "file:///android_asset/view/amongus_016.png",
+      "title": "Amongus_016.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_017.png",
+      "image": "file:///android_asset/view/amongus_017.png",
+      "title": "Amongus_017.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_018.png",
+      "image": "file:///android_asset/view/amongus_018.png",
+      "title": "Amongus_018.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_019.png",
+      "image": "file:///android_asset/view/amongus_019.png",
+      "title": "Amongus_019.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_020.png",
+      "image": "file:///android_asset/view/amongus_020.png",
+      "title": "Amongus_020.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_021.png",
+      "image": "file:///android_asset/view/amongus_021.png",
+      "title": "Amongus_021.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_022.png",
+      "image": "file:///android_asset/view/amongus_022.png",
+      "title": "Amongus_022.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_023.png",
+      "image": "file:///android_asset/view/amongus_023.png",
+      "title": "Amongus_023.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_024.png",
+      "image": "file:///android_asset/view/amongus_024.png",
+      "title": "Amongus_024.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_025.png",
+      "image": "file:///android_asset/view/amongus_025.png",
+      "title": "Amongus_025.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_026.png",
+      "image": "file:///android_asset/view/amongus_026.png",
+      "title": "Amongus_026.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_027.png",
+      "image": "file:///android_asset/view/amongus_027.png",
+      "title": "Amongus_027.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_028.png",
+      "image": "file:///android_asset/view/amongus_028.png",
+      "title": "Amongus_028.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_029.png",
+      "image": "file:///android_asset/view/amongus_029.png",
+      "title": "Amongus_029.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_030.png",
+      "image": "file:///android_asset/view/amongus_030.png",
+      "title": "Amongus_030.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_031.png",
+      "image": "file:///android_asset/view/amongus_031.png",
+      "title": "Amongus_031.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_032.png",
+      "image": "file:///android_asset/view/amongus_032.png",
+      "title": "Amongus_032.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_033.png",
+      "image": "file:///android_asset/view/amongus_033.png",
+      "title": "Amongus_033.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_034.png",
+      "image": "file:///android_asset/view/amongus_034.png",
+      "title": "Amongus_034.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_035.png",
+      "image": "file:///android_asset/view/amongus_035.png",
+      "title": "Amongus_035.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_036.png",
+      "image": "file:///android_asset/view/amongus_036.png",
+      "title": "Amongus_036.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_037.png",
+      "image": "file:///android_asset/view/amongus_037.png",
+      "title": "Amongus_037.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_038.png",
+      "image": "file:///android_asset/view/amongus_038.png",
+      "title": "Amongus_038.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_039.png",
+      "image": "file:///android_asset/view/amongus_039.png",
+      "title": "Amongus_039.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_040.png",
+      "image": "file:///android_asset/view/amongus_040.png",
+      "title": "Amongus_040.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_041.png",
+      "image": "file:///android_asset/view/amongus_041.png",
+      "title": "Amongus_041.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_042.png",
+      "image": "file:///android_asset/view/amongus_042.png",
+      "title": "Amongus_042.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_043.png",
+      "image": "file:///android_asset/view/amongus_043.png",
+      "title": "Amongus_043.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_044.png",
+      "image": "file:///android_asset/view/amongus_044.png",
+      "title": "Amongus_044.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_045.png",
+      "image": "file:///android_asset/view/amongus_045.png",
+      "title": "Amongus_045.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_046.png",
+      "image": "file:///android_asset/view/amongus_046.png",
+      "title": "Amongus_046.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_047.png",
+      "image": "file:///android_asset/view/amongus_047.png",
+      "title": "Amongus_047.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_048.png",
+      "image": "file:///android_asset/view/amongus_048.png",
+      "title": "Amongus_048.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_049.png",
+      "image": "file:///android_asset/view/amongus_049.png",
+      "title": "Amongus_049.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_050.png",
+      "image": "file:///android_asset/view/amongus_050.png",
+      "title": "Amongus_050.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_051.png",
+      "image": "file:///android_asset/view/amongus_051.png",
+      "title": "Amongus_051.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_052.png",
+      "image": "file:///android_asset/view/amongus_052.png",
+      "title": "Amongus_052.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_053.png",
+      "image": "file:///android_asset/view/amongus_053.png",
+      "title": "Amongus_053.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_054.png",
+      "image": "file:///android_asset/view/amongus_054.png",
+      "title": "Amongus_054.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_055.png",
+      "image": "file:///android_asset/view/amongus_055.png",
+      "title": "Amongus_055.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_056.png",
+      "image": "file:///android_asset/view/amongus_056.png",
+      "title": "Amongus_056.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_057.png",
+      "image": "file:///android_asset/view/amongus_057.png",
+      "title": "Amongus_057.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_058.png",
+      "image": "file:///android_asset/view/amongus_058.png",
+      "title": "Amongus_058.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_059.png",
+      "image": "file:///android_asset/view/amongus_059.png",
+      "title": "Amongus_059.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_060.png",
+      "image": "file:///android_asset/view/amongus_060.png",
+      "title": "Amongus_060.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_061.png",
+      "image": "file:///android_asset/view/amongus_061.png",
+      "title": "Amongus_061.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_062.png",
+      "image": "file:///android_asset/view/amongus_062.png",
+      "title": "Amongus_062.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_063.png",
+      "image": "file:///android_asset/view/amongus_063.png",
+      "title": "Amongus_063.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_064.png",
+      "image": "file:///android_asset/view/amongus_064.png",
+      "title": "Amongus_064.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_065.png",
+      "image": "file:///android_asset/view/amongus_065.png",
+      "title": "Amongus_065.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_066.png",
+      "image": "file:///android_asset/view/amongus_066.png",
+      "title": "Amongus_066.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_067.png",
+      "image": "file:///android_asset/view/amongus_067.png",
+      "title": "Amongus_067.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_068.png",
+      "image": "file:///android_asset/view/amongus_068.png",
+      "title": "Amongus_068.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_069.png",
+      "image": "file:///android_asset/view/amongus_069.png",
+      "title": "Amongus_069.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_070.png",
+      "image": "file:///android_asset/view/amongus_070.png",
+      "title": "Amongus_070.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_071.png",
+      "image": "file:///android_asset/view/amongus_071.png",
+      "title": "Amongus_071.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_072.png",
+      "image": "file:///android_asset/view/amongus_072.png",
+      "title": "Amongus_072.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_073.png",
+      "image": "file:///android_asset/view/amongus_073.png",
+      "title": "Amongus_073.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_074.png",
+      "image": "file:///android_asset/view/amongus_074.png",
+      "title": "Amongus_074.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_075.png",
+      "image": "file:///android_asset/view/amongus_075.png",
+      "title": "Amongus_075.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_076.png",
+      "image": "file:///android_asset/view/amongus_076.png",
+      "title": "Amongus_076.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_077.png",
+      "image": "file:///android_asset/view/amongus_077.png",
+      "title": "Amongus_077.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_078.png",
+      "image": "file:///android_asset/view/amongus_078.png",
+      "title": "Amongus_078.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_079.png",
+      "image": "file:///android_asset/view/amongus_079.png",
+      "title": "Amongus_079.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_080.png",
+      "image": "file:///android_asset/view/amongus_080.png",
+      "title": "Amongus_080.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_081.png",
+      "image": "file:///android_asset/view/amongus_081.png",
+      "title": "Amongus_081.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_082.png",
+      "image": "file:///android_asset/view/amongus_082.png",
+      "title": "Amongus_082.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_083.png",
+      "image": "file:///android_asset/view/amongus_083.png",
+      "title": "Amongus_083.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_084.png",
+      "image": "file:///android_asset/view/amongus_084.png",
+      "title": "Amongus_084.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_085.png",
+      "image": "file:///android_asset/view/amongus_085.png",
+      "title": "Amongus_085.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_086.png",
+      "image": "file:///android_asset/view/amongus_086.png",
+      "title": "Amongus_086.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_087.png",
+      "image": "file:///android_asset/view/amongus_087.png",
+      "title": "Amongus_087.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_088.png",
+      "image": "file:///android_asset/view/amongus_088.png",
+      "title": "Amongus_088.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_089.png",
+      "image": "file:///android_asset/view/amongus_089.png",
+      "title": "Amongus_089.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_090.png",
+      "image": "file:///android_asset/view/amongus_090.png",
+      "title": "Amongus_090.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_091.png",
+      "image": "file:///android_asset/view/amongus_091.png",
+      "title": "Amongus_091.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_092.png",
+      "image": "file:///android_asset/view/amongus_092.png",
+      "title": "Amongus_092.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_093.png",
+      "image": "file:///android_asset/view/amongus_093.png",
+      "title": "Amongus_093.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_094.png",
+      "image": "file:///android_asset/view/amongus_094.png",
+      "title": "Amongus_094.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_095.png",
+      "image": "file:///android_asset/view/amongus_095.png",
+      "title": "Amongus_095.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_096.png",
+      "image": "file:///android_asset/view/amongus_096.png",
+      "title": "Amongus_096.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_097.png",
+      "image": "file:///android_asset/view/amongus_097.png",
+      "title": "Amongus_097.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_098.png",
+      "image": "file:///android_asset/view/amongus_098.png",
+      "title": "Amongus_098.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_099.png",
+      "image": "file:///android_asset/view/amongus_099.png",
+      "title": "Amongus_099.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_100.png",
+      "image": "file:///android_asset/view/amongus_100.png",
+      "title": "Amongus_100.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_101.png",
+      "image": "file:///android_asset/view/amongus_101.png",
+      "title": "Amongus_101.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_102.png",
+      "image": "file:///android_asset/view/amongus_102.png",
+      "title": "Amongus_102.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_103.png",
+      "image": "file:///android_asset/view/amongus_103.png",
+      "title": "Amongus_103.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_104.png",
+      "image": "file:///android_asset/view/amongus_104.png",
+      "title": "Amongus_104.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_105.png",
+      "image": "file:///android_asset/view/amongus_105.png",
+      "title": "Amongus_105.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_106.png",
+      "image": "file:///android_asset/view/amongus_106.png",
+      "title": "Amongus_106.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_107.png",
+      "image": "file:///android_asset/view/amongus_107.png",
+      "title": "Amongus_107.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_108.png",
+      "image": "file:///android_asset/view/amongus_108.png",
+      "title": "Amongus_108.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_109.png",
+      "image": "file:///android_asset/view/amongus_109.png",
+      "title": "Amongus_109.png"
+    },
+    {
+      "name_category": "mcpe play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/amongus/install/amongus_110.png",
+      "image": "file:///android_asset/view/amongus_110.png",
+      "title": "Amongus_110.png"
+    }
+  ]
+}
