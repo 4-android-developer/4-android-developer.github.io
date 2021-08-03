@@ -1,0 +1,1220 @@
+{
+  "Ads": [
+    {
+      "select_ads": "",
+      "select_ads_banner": "",
+      "select_ads_native": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-6026900188964442/7814713864",
+      "admob_nativeid": "ca-app-pub-6026900188964442/3875468857",
+      "admob_nativeid_besar": "ca-app-pub-6026900188964442/9482663537",
+      "admob_openid": "ca-app-pub-6026900188964442/4996978839",
+      "interval_intertitial": "3",
+      "startappid": "",
+      "fan_inter": "",
+      "fan_banner_native": "",
+      "fan_native": "",
+      "mopub_banner": "",
+      "mopub_banner_medium": "",
+      "mopub_inter": "",
+      "applovin_mrec": "ecaf2ae5b9a19203",
+      "applovin_banner": "eced39ff5b6e7d2c",
+      "applovin_inter": "12943b33f050219e",
+      "unityID": "4230947",
+      "unity_inter": "Interstitial_Android",
+      "unity_banner": "Banner_Android",
+      "select_exit": "1",
+      "icon_promote": "https://play-lh.googleusercontent.com/PaPDA3fwetBeFtzA9mLxY7YfZol1nesCyuIASLZdJGwpVbTDYZBM-zMiETcb1f1v77A=s180-rw",
+      "judul_promote": "Spiderman Skin MCPE",
+      "deskripsi_promote": "Spiderman",
+      "gambar_promote": "https://play-lh.googleusercontent.com/PaPDA3fwetBeFtzA9mLxY7YfZol1nesCyuIASLZdJGwpVbTDYZBM-zMiETcb1f1v77A=s180-rw",
+      "link_promote": "https://play.google.com/store/apps/details?id=com.starladev.spiderman.skin.mcpe",
+      "on_off_category": "0",
+      "on_off_more_app": "1",
+      "tutorial": "https://sites.google.com/view/tutorialchangeskinmcpe/home",
+      "hpk_bambank": "",
+      "hpk_admob1": "",
+      "hpk_admob2": "",
+      "hpk_admob3": "",
+      "hpk_admob4": "",
+      "hpk_admob5": ""
+    }
+  ],
+  "More": [
+    {
+      "id": 1,
+      "title": "Spiderman Skins",
+      "image": "https://play-lh.googleusercontent.com/PaPDA3fwetBeFtzA9mLxY7YfZol1nesCyuIASLZdJGwpVbTDYZBM-zMiETcb1f1v77A=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.spiderman.skin.mcpe"
+    },
+    {
+      "id": 2,
+      "title": "Medieval Skins",
+      "image": "https://play-lh.googleusercontent.com/fkDUSiFtkV2GovgvAoNGCv1Oe3_2-W9yMEUZsF-SpZ_hIEFStlGHhQr-e3AI4uY13Hw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.medieval.skin.mcpe"
+    },
+    {
+      "id": 3,
+      "title": "Kamen Rider Skins",
+      "image": "https://play-lh.googleusercontent.com/ZFvcBrr7Ic5Uf5yjOhMSxNL93BaCWKmLh4k8NjgVMoXh3ESnCBnGTDlnBVneJLnbFQ-d=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.kamen.rider.skin.mcpe"
+    },
+    {
+      "id": 4,
+      "title": "Frost Skins",
+      "image": "https://play-lh.googleusercontent.com/Bngf6kq9BVb5GuMk18b4S7NvdU_OEtXMfeCZdgEkPzK58avjG5nmxA53FLW-KkT-jA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.gamaotanker.frostdiamond_skin_minecraft"
+    },
+    {
+      "id": 5,
+      "title": "Naruto Skins",
+      "image": "https://play-lh.googleusercontent.com/zC7FbH7GX5p2jJBw2tKZ-eiI9AyWWazWWL5RPJj4oXfKMWqbrNhYFohgEl9042NzRg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.gamaotanker.naruto_skin_minecraft"
+    },
+    {
+      "id": 6,
+      "title": "Akatsuki Skins",
+      "image": "https://play-lh.googleusercontent.com/J3W4hO1xi7D-z_SbvoXeNCSIuGMqbPKczyVj6QxNj3HFcO44sAx3XysCKVO7QcHTVUrD=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.gamaotanker.akatsuki_skin_minecraft"
+    },
+    {
+      "id": 7,
+      "title": "Aestethic Skins",
+      "image": "https://play-lh.googleusercontent.com/Q4aB_6jkmdxQP22UWFnesB-K1dvZ-ouLTSZBNDx2IlIFSPbnJvEIln7DrcIhwse8rK5p=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.gamaotanker.Amongus_skin_minecraft"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "minecraft google play",
+      "image": "https://lh3.googleusercontent.com/d/https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "mcpe play",
+      "image": "https://lh3.googleusercontent.com/d/http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "minecraft play store",
+      "image": "https://lh3.googleusercontent.com/d/file:///android_asset/image/car.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_001.png",
+      "image": "file:///android_asset/view/animatronic_001.png",
+      "title": "Animatronic_001"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_002.png",
+      "image": "file:///android_asset/view/animatronic_002.png",
+      "title": "Animatronic_002"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_003.png",
+      "image": "file:///android_asset/view/animatronic_003.png",
+      "title": "Animatronic_003"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_004.png",
+      "image": "file:///android_asset/view/animatronic_004.png",
+      "title": "Animatronic_004"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_005.png",
+      "image": "file:///android_asset/view/animatronic_005.png",
+      "title": "Animatronic_005"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_006.png",
+      "image": "file:///android_asset/view/animatronic_006.png",
+      "title": "Animatronic_006"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_007.png",
+      "image": "file:///android_asset/view/animatronic_007.png",
+      "title": "Animatronic_007"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_008.png",
+      "image": "file:///android_asset/view/animatronic_008.png",
+      "title": "Animatronic_008"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_009.png",
+      "image": "file:///android_asset/view/animatronic_009.png",
+      "title": "Animatronic_009"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_010.png",
+      "image": "file:///android_asset/view/animatronic_010.png",
+      "title": "Animatronic_010"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_011.png",
+      "image": "file:///android_asset/view/animatronic_011.png",
+      "title": "Animatronic_011"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_012.png",
+      "image": "file:///android_asset/view/animatronic_012.png",
+      "title": "Animatronic_012"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_013.png",
+      "image": "file:///android_asset/view/animatronic_013.png",
+      "title": "Animatronic_013"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_014.png",
+      "image": "file:///android_asset/view/animatronic_014.png",
+      "title": "Animatronic_014"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_015.png",
+      "image": "file:///android_asset/view/animatronic_015.png",
+      "title": "Animatronic_015"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_016.png",
+      "image": "file:///android_asset/view/animatronic_016.png",
+      "title": "Animatronic_016"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_017.png",
+      "image": "file:///android_asset/view/animatronic_017.png",
+      "title": "Animatronic_017"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_018.png",
+      "image": "file:///android_asset/view/animatronic_018.png",
+      "title": "Animatronic_018"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_019.png",
+      "image": "file:///android_asset/view/animatronic_019.png",
+      "title": "Animatronic_019"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_020.png",
+      "image": "file:///android_asset/view/animatronic_020.png",
+      "title": "Animatronic_020"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_021.png",
+      "image": "file:///android_asset/view/animatronic_021.png",
+      "title": "Animatronic_021"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_022.png",
+      "image": "file:///android_asset/view/animatronic_022.png",
+      "title": "Animatronic_022"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_023.png",
+      "image": "file:///android_asset/view/animatronic_023.png",
+      "title": "Animatronic_023"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_024.png",
+      "image": "file:///android_asset/view/animatronic_024.png",
+      "title": "Animatronic_024"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_025.png",
+      "image": "file:///android_asset/view/animatronic_025.png",
+      "title": "Animatronic_025"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_026.png",
+      "image": "file:///android_asset/view/animatronic_026.png",
+      "title": "Animatronic_026"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_027.png",
+      "image": "file:///android_asset/view/animatronic_027.png",
+      "title": "Animatronic_027"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_028.png",
+      "image": "file:///android_asset/view/animatronic_028.png",
+      "title": "Animatronic_028"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_029.png",
+      "image": "file:///android_asset/view/animatronic_029.png",
+      "title": "Animatronic_029"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_030.png",
+      "image": "file:///android_asset/view/animatronic_030.png",
+      "title": "Animatronic_030"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_031.png",
+      "image": "file:///android_asset/view/animatronic_031.png",
+      "title": "Animatronic_031"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_032.png",
+      "image": "file:///android_asset/view/animatronic_032.png",
+      "title": "Animatronic_032"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_033.png",
+      "image": "file:///android_asset/view/animatronic_033.png",
+      "title": "Animatronic_033"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_034.png",
+      "image": "file:///android_asset/view/animatronic_034.png",
+      "title": "Animatronic_034"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_035.png",
+      "image": "file:///android_asset/view/animatronic_035.png",
+      "title": "Animatronic_035"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_036.png",
+      "image": "file:///android_asset/view/animatronic_036.png",
+      "title": "Animatronic_036"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_037.png",
+      "image": "file:///android_asset/view/animatronic_037.png",
+      "title": "Animatronic_037"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_038.png",
+      "image": "file:///android_asset/view/animatronic_038.png",
+      "title": "Animatronic_038"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_039.png",
+      "image": "file:///android_asset/view/animatronic_039.png",
+      "title": "Animatronic_039"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_040.png",
+      "image": "file:///android_asset/view/animatronic_040.png",
+      "title": "Animatronic_040"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_041.png",
+      "image": "file:///android_asset/view/animatronic_041.png",
+      "title": "Animatronic_041"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_042.png",
+      "image": "file:///android_asset/view/animatronic_042.png",
+      "title": "Animatronic_042"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_043.png",
+      "image": "file:///android_asset/view/animatronic_043.png",
+      "title": "Animatronic_043"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_044.png",
+      "image": "file:///android_asset/view/animatronic_044.png",
+      "title": "Animatronic_044"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_045.png",
+      "image": "file:///android_asset/view/animatronic_045.png",
+      "title": "Animatronic_045"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_046.png",
+      "image": "file:///android_asset/view/animatronic_046.png",
+      "title": "Animatronic_046"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_047.png",
+      "image": "file:///android_asset/view/animatronic_047.png",
+      "title": "Animatronic_047"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_048.png",
+      "image": "file:///android_asset/view/animatronic_048.png",
+      "title": "Animatronic_048"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_049.png",
+      "image": "file:///android_asset/view/animatronic_049.png",
+      "title": "Animatronic_049"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_050.png",
+      "image": "file:///android_asset/view/animatronic_050.png",
+      "title": "Animatronic_050"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_051.png",
+      "image": "file:///android_asset/view/animatronic_051.png",
+      "title": "Animatronic_051"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_052.png",
+      "image": "file:///android_asset/view/animatronic_052.png",
+      "title": "Animatronic_052"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_053.png",
+      "image": "file:///android_asset/view/animatronic_053.png",
+      "title": "Animatronic_053"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_054.png",
+      "image": "file:///android_asset/view/animatronic_054.png",
+      "title": "Animatronic_054"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_055.png",
+      "image": "file:///android_asset/view/animatronic_055.png",
+      "title": "Animatronic_055"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_056.png",
+      "image": "file:///android_asset/view/animatronic_056.png",
+      "title": "Animatronic_056"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_057.png",
+      "image": "file:///android_asset/view/animatronic_057.png",
+      "title": "Animatronic_057"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_058.png",
+      "image": "file:///android_asset/view/animatronic_058.png",
+      "title": "Animatronic_058"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_059.png",
+      "image": "file:///android_asset/view/animatronic_059.png",
+      "title": "Animatronic_059"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_060.png",
+      "image": "file:///android_asset/view/animatronic_060.png",
+      "title": "Animatronic_060"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_061.png",
+      "image": "file:///android_asset/view/animatronic_061.png",
+      "title": "Animatronic_061"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_062.png",
+      "image": "file:///android_asset/view/animatronic_062.png",
+      "title": "Animatronic_062"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_063.png",
+      "image": "file:///android_asset/view/animatronic_063.png",
+      "title": "Animatronic_063"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_064.png",
+      "image": "file:///android_asset/view/animatronic_064.png",
+      "title": "Animatronic_064"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_065.png",
+      "image": "file:///android_asset/view/animatronic_065.png",
+      "title": "Animatronic_065"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_066.png",
+      "image": "file:///android_asset/view/animatronic_066.png",
+      "title": "Animatronic_066"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_067.png",
+      "image": "file:///android_asset/view/animatronic_067.png",
+      "title": "Animatronic_067"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_068.png",
+      "image": "file:///android_asset/view/animatronic_068.png",
+      "title": "Animatronic_068"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_069.png",
+      "image": "file:///android_asset/view/animatronic_069.png",
+      "title": "Animatronic_069"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_070.png",
+      "image": "file:///android_asset/view/animatronic_070.png",
+      "title": "Animatronic_070"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_071.png",
+      "image": "file:///android_asset/view/animatronic_071.png",
+      "title": "Animatronic_071"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_072.png",
+      "image": "file:///android_asset/view/animatronic_072.png",
+      "title": "Animatronic_072"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_073.png",
+      "image": "file:///android_asset/view/animatronic_073.png",
+      "title": "Animatronic_073"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_074.png",
+      "image": "file:///android_asset/view/animatronic_074.png",
+      "title": "Animatronic_074"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_075.png",
+      "image": "file:///android_asset/view/animatronic_075.png",
+      "title": "Animatronic_075"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_076.png",
+      "image": "file:///android_asset/view/animatronic_076.png",
+      "title": "Animatronic_076"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_077.png",
+      "image": "file:///android_asset/view/animatronic_077.png",
+      "title": "Animatronic_077"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_078.png",
+      "image": "file:///android_asset/view/animatronic_078.png",
+      "title": "Animatronic_078"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_079.png",
+      "image": "file:///android_asset/view/animatronic_079.png",
+      "title": "Animatronic_079"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_080.png",
+      "image": "file:///android_asset/view/animatronic_080.png",
+      "title": "Animatronic_080"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_081.png",
+      "image": "file:///android_asset/view/animatronic_081.png",
+      "title": "Animatronic_081"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_082.png",
+      "image": "file:///android_asset/view/animatronic_082.png",
+      "title": "Animatronic_082"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_083.png",
+      "image": "file:///android_asset/view/animatronic_083.png",
+      "title": "Animatronic_083"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_084.png",
+      "image": "file:///android_asset/view/animatronic_084.png",
+      "title": "Animatronic_084"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_085.png",
+      "image": "file:///android_asset/view/animatronic_085.png",
+      "title": "Animatronic_085"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_086.png",
+      "image": "file:///android_asset/view/animatronic_086.png",
+      "title": "Animatronic_086"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_087.png",
+      "image": "file:///android_asset/view/animatronic_087.png",
+      "title": "Animatronic_087"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_088.png",
+      "image": "file:///android_asset/view/animatronic_088.png",
+      "title": "Animatronic_088"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_089.png",
+      "image": "file:///android_asset/view/animatronic_089.png",
+      "title": "Animatronic_089"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_090.png",
+      "image": "file:///android_asset/view/animatronic_090.png",
+      "title": "Animatronic_090"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_091.png",
+      "image": "file:///android_asset/view/animatronic_091.png",
+      "title": "Animatronic_091"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_092.png",
+      "image": "file:///android_asset/view/animatronic_092.png",
+      "title": "Animatronic_092"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_093.png",
+      "image": "file:///android_asset/view/animatronic_093.png",
+      "title": "Animatronic_093"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_094.png",
+      "image": "file:///android_asset/view/animatronic_094.png",
+      "title": "Animatronic_094"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_095.png",
+      "image": "file:///android_asset/view/animatronic_095.png",
+      "title": "Animatronic_095"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_096.png",
+      "image": "file:///android_asset/view/animatronic_096.png",
+      "title": "Animatronic_096"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_097.png",
+      "image": "file:///android_asset/view/animatronic_097.png",
+      "title": "Animatronic_097"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_098.png",
+      "image": "file:///android_asset/view/animatronic_098.png",
+      "title": "Animatronic_098"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_099.png",
+      "image": "file:///android_asset/view/animatronic_099.png",
+      "title": "Animatronic_099"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_100.png",
+      "image": "file:///android_asset/view/animatronic_100.png",
+      "title": "Animatronic_100"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_101.png",
+      "image": "file:///android_asset/view/animatronic_101.png",
+      "title": "Animatronic_101"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_102.png",
+      "image": "file:///android_asset/view/animatronic_102.png",
+      "title": "Animatronic_102"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_103.png",
+      "image": "file:///android_asset/view/animatronic_103.png",
+      "title": "Animatronic_103"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_104.png",
+      "image": "file:///android_asset/view/animatronic_104.png",
+      "title": "Animatronic_104"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_105.png",
+      "image": "file:///android_asset/view/animatronic_105.png",
+      "title": "Animatronic_105"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_106.png",
+      "image": "file:///android_asset/view/animatronic_106.png",
+      "title": "Animatronic_106"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_107.png",
+      "image": "file:///android_asset/view/animatronic_107.png",
+      "title": "Animatronic_107"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_108.png",
+      "image": "file:///android_asset/view/animatronic_108.png",
+      "title": "Animatronic_108"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_109.png",
+      "image": "file:///android_asset/view/animatronic_109.png",
+      "title": "Animatronic_109"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_110.png",
+      "image": "file:///android_asset/view/animatronic_110.png",
+      "title": "Animatronic_110"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_111.png",
+      "image": "file:///android_asset/view/animatronic_111.png",
+      "title": "Animatronic_111"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_112.png",
+      "image": "file:///android_asset/view/animatronic_112.png",
+      "title": "Animatronic_112"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_113.png",
+      "image": "file:///android_asset/view/animatronic_113.png",
+      "title": "Animatronic_113"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_114.png",
+      "image": "file:///android_asset/view/animatronic_114.png",
+      "title": "Animatronic_114"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_115.png",
+      "image": "file:///android_asset/view/animatronic_115.png",
+      "title": "Animatronic_115"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_116.png",
+      "image": "file:///android_asset/view/animatronic_116.png",
+      "title": "Animatronic_116"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_117.png",
+      "image": "file:///android_asset/view/animatronic_117.png",
+      "title": "Animatronic_117"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_118.png",
+      "image": "file:///android_asset/view/animatronic_118.png",
+      "title": "Animatronic_118"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_119.png",
+      "image": "file:///android_asset/view/animatronic_119.png",
+      "title": "Animatronic_119"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_120.png",
+      "image": "file:///android_asset/view/animatronic_120.png",
+      "title": "Animatronic_120"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_121.png",
+      "image": "file:///android_asset/view/animatronic_121.png",
+      "title": "Animatronic_121"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_122.png",
+      "image": "file:///android_asset/view/animatronic_122.png",
+      "title": "Animatronic_122"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_123.png",
+      "image": "file:///android_asset/view/animatronic_123.png",
+      "title": "Animatronic_123"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_124.png",
+      "image": "file:///android_asset/view/animatronic_124.png",
+      "title": "Animatronic_124"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_125.png",
+      "image": "file:///android_asset/view/animatronic_125.png",
+      "title": "Animatronic_125"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_126.png",
+      "image": "file:///android_asset/view/animatronic_126.png",
+      "title": "Animatronic_126"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_127.png",
+      "image": "file:///android_asset/view/animatronic_127.png",
+      "title": "Animatronic_127"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_128.png",
+      "image": "file:///android_asset/view/animatronic_128.png",
+      "title": "Animatronic_128"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_129.png",
+      "image": "file:///android_asset/view/animatronic_129.png",
+      "title": "Animatronic_129"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_130.png",
+      "image": "file:///android_asset/view/animatronic_130.png",
+      "title": "Animatronic_130"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_131.png",
+      "image": "file:///android_asset/view/animatronic_131.png",
+      "title": "Animatronic_131"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_132.png",
+      "image": "file:///android_asset/view/animatronic_132.png",
+      "title": "Animatronic_132"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_133.png",
+      "image": "file:///android_asset/view/animatronic_133.png",
+      "title": "Animatronic_133"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_134.png",
+      "image": "file:///android_asset/view/animatronic_134.png",
+      "title": "Animatronic_134"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_135.png",
+      "image": "file:///android_asset/view/animatronic_135.png",
+      "title": "Animatronic_135"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_136.png",
+      "image": "file:///android_asset/view/animatronic_136.png",
+      "title": "Animatronic_136"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_137.png",
+      "image": "file:///android_asset/view/animatronic_137.png",
+      "title": "Animatronic_137"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_138.png",
+      "image": "file:///android_asset/view/animatronic_138.png",
+      "title": "Animatronic_138"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_139.png",
+      "image": "file:///android_asset/view/animatronic_139.png",
+      "title": "Animatronic_139"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_140.png",
+      "image": "file:///android_asset/view/animatronic_140.png",
+      "title": "Animatronic_140"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_141.png",
+      "image": "file:///android_asset/view/animatronic_141.png",
+      "title": "Animatronic_141"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_142.png",
+      "image": "file:///android_asset/view/animatronic_142.png",
+      "title": "Animatronic_142"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_143.png",
+      "image": "file:///android_asset/view/animatronic_143.png",
+      "title": "Animatronic_143"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_144.png",
+      "image": "file:///android_asset/view/animatronic_144.png",
+      "title": "Animatronic_144"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_145.png",
+      "image": "file:///android_asset/view/animatronic_145.png",
+      "title": "Animatronic_145"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_146.png",
+      "image": "file:///android_asset/view/animatronic_146.png",
+      "title": "Animatronic_146"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_147.png",
+      "image": "file:///android_asset/view/animatronic_147.png",
+      "title": "Animatronic_147"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_148.png",
+      "image": "file:///android_asset/view/animatronic_148.png",
+      "title": "Animatronic_148"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_149.png",
+      "image": "file:///android_asset/view/animatronic_149.png",
+      "title": "Animatronic_149"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_150.png",
+      "image": "file:///android_asset/view/animatronic_150.png",
+      "title": "Animatronic_150"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_151.png",
+      "image": "file:///android_asset/view/animatronic_151.png",
+      "title": "Animatronic_151"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_152.png",
+      "image": "file:///android_asset/view/animatronic_152.png",
+      "title": "Animatronic_152"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_153.png",
+      "image": "file:///android_asset/view/animatronic_153.png",
+      "title": "Animatronic_153"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_154.png",
+      "image": "file:///android_asset/view/animatronic_154.png",
+      "title": "Animatronic_154"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_155.png",
+      "image": "file:///android_asset/view/animatronic_155.png",
+      "title": "Animatronic_155"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_156.png",
+      "image": "file:///android_asset/view/animatronic_156.png",
+      "title": "Animatronic_156"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_157.png",
+      "image": "file:///android_asset/view/animatronic_157.png",
+      "title": "Animatronic_157"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_158.png",
+      "image": "file:///android_asset/view/animatronic_158.png",
+      "title": "Animatronic_158"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/animatronic/install/animatronic_159.png",
+      "image": "file:///android_asset/view/animatronic_159.png",
+      "title": "Animatronic_159"
+    }
+  ]
+}
