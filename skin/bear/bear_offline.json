@@ -1,0 +1,947 @@
+{
+  "Ads": [
+    {
+      "select_ads": "",
+      "select_ads_banner": "",
+      "select_ads_native": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-6026900188964442/7814713864",
+      "admob_nativeid": "ca-app-pub-6026900188964442/3875468857",
+      "admob_nativeid_besar": "ca-app-pub-6026900188964442/9482663537",
+      "admob_openid": "ca-app-pub-6026900188964442/4996978839",
+      "interval_intertitial": "3",
+      "startappid": "",
+      "fan_inter": "",
+      "fan_banner_native": "",
+      "fan_native": "",
+      "mopub_banner": "",
+      "mopub_banner_medium": "",
+      "mopub_inter": "",
+      "applovin_mrec": "ecaf2ae5b9a19203",
+      "applovin_banner": "eced39ff5b6e7d2c",
+      "applovin_inter": "12943b33f050219e",
+      "unityID": "4230947",
+      "unity_inter": "Interstitial_Android",
+      "unity_banner": "Banner_Android",
+      "select_exit": "1",
+      "icon_promote": "https://play-lh.googleusercontent.com/PaPDA3fwetBeFtzA9mLxY7YfZol1nesCyuIASLZdJGwpVbTDYZBM-zMiETcb1f1v77A=s180-rw",
+      "judul_promote": "Spiderman Skin MCPE",
+      "deskripsi_promote": "Spiderman",
+      "gambar_promote": "https://play-lh.googleusercontent.com/PaPDA3fwetBeFtzA9mLxY7YfZol1nesCyuIASLZdJGwpVbTDYZBM-zMiETcb1f1v77A=s180-rw",
+      "link_promote": "https://play.google.com/store/apps/details?id=com.starladev.spiderman.skin.mcpe",
+      "on_off_category": "0",
+      "on_off_more_app": "1",
+      "tutorial": "https://sites.google.com/view/tutorialchangeskinmcpe/home",
+      "hpk_bambank": "",
+      "hpk_admob1": "",
+      "hpk_admob2": "",
+      "hpk_admob3": "",
+      "hpk_admob4": "",
+      "hpk_admob5": ""
+    }
+  ],
+  "More": [
+    {
+      "id": 1,
+      "title": "Spiderman Skins",
+      "image": "https://play-lh.googleusercontent.com/PaPDA3fwetBeFtzA9mLxY7YfZol1nesCyuIASLZdJGwpVbTDYZBM-zMiETcb1f1v77A=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.spiderman.skin.mcpe"
+    },
+    {
+      "id": 2,
+      "title": "Medieval Skins",
+      "image": "https://play-lh.googleusercontent.com/fkDUSiFtkV2GovgvAoNGCv1Oe3_2-W9yMEUZsF-SpZ_hIEFStlGHhQr-e3AI4uY13Hw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.medieval.skin.mcpe"
+    },
+    {
+      "id": 3,
+      "title": "Kamen Rider Skins",
+      "image": "https://play-lh.googleusercontent.com/ZFvcBrr7Ic5Uf5yjOhMSxNL93BaCWKmLh4k8NjgVMoXh3ESnCBnGTDlnBVneJLnbFQ-d=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.kamen.rider.skin.mcpe"
+    },
+    {
+      "id": 4,
+      "title": "Frost Skins",
+      "image": "https://play-lh.googleusercontent.com/Bngf6kq9BVb5GuMk18b4S7NvdU_OEtXMfeCZdgEkPzK58avjG5nmxA53FLW-KkT-jA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.gamaotanker.frostdiamond_skin_minecraft"
+    },
+    {
+      "id": 5,
+      "title": "Naruto Skins",
+      "image": "https://play-lh.googleusercontent.com/zC7FbH7GX5p2jJBw2tKZ-eiI9AyWWazWWL5RPJj4oXfKMWqbrNhYFohgEl9042NzRg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.gamaotanker.naruto_skin_minecraft"
+    },
+    {
+      "id": 6,
+      "title": "Akatsuki Skins",
+      "image": "https://play-lh.googleusercontent.com/J3W4hO1xi7D-z_SbvoXeNCSIuGMqbPKczyVj6QxNj3HFcO44sAx3XysCKVO7QcHTVUrD=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.gamaotanker.akatsuki_skin_minecraft"
+    },
+    {
+      "id": 7,
+      "title": "Aestethic Skins",
+      "image": "https://play-lh.googleusercontent.com/Q4aB_6jkmdxQP22UWFnesB-K1dvZ-ouLTSZBNDx2IlIFSPbnJvEIln7DrcIhwse8rK5p=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.gamaotanker.aesthetic_skin_minecraft"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "minecraft google play",
+      "image": "https://lh3.googleusercontent.com/d/https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "mcpe play",
+      "image": "https://lh3.googleusercontent.com/d/http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "minecraft play store",
+      "image": "https://lh3.googleusercontent.com/d/file:///android_asset/image/car.jpg"
+    }
+  ],
+  "Data": [
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_001.png",
+    "image": "file:///android_asset/view/bear_001.png",
+    "title": "bear_001"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_002.png",
+    "image": "file:///android_asset/view/bear_002.png",
+    "title": "bear_002"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_003.png",
+    "image": "file:///android_asset/view/bear_003.png",
+    "title": "bear_003"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_004.png",
+    "image": "file:///android_asset/view/bear_004.png",
+    "title": "bear_004"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_005.png",
+    "image": "file:///android_asset/view/bear_005.png",
+    "title": "bear_005"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_006.png",
+    "image": "file:///android_asset/view/bear_006.png",
+    "title": "bear_006"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_007.png",
+    "image": "file:///android_asset/view/bear_007.png",
+    "title": "bear_007"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_008.png",
+    "image": "file:///android_asset/view/bear_008.png",
+    "title": "bear_008"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_009.png",
+    "image": "file:///android_asset/view/bear_009.png",
+    "title": "bear_009"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_010.png",
+    "image": "file:///android_asset/view/bear_010.png",
+    "title": "bear_010"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_011.png",
+    "image": "file:///android_asset/view/bear_011.png",
+    "title": "bear_011"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_012.png",
+    "image": "file:///android_asset/view/bear_012.png",
+    "title": "bear_012"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_013.png",
+    "image": "file:///android_asset/view/bear_013.png",
+    "title": "bear_013"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_014.png",
+    "image": "file:///android_asset/view/bear_014.png",
+    "title": "bear_014"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_015.png",
+    "image": "file:///android_asset/view/bear_015.png",
+    "title": "bear_015"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_016.png",
+    "image": "file:///android_asset/view/bear_016.png",
+    "title": "bear_016"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_017.png",
+    "image": "file:///android_asset/view/bear_017.png",
+    "title": "bear_017"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_018.png",
+    "image": "file:///android_asset/view/bear_018.png",
+    "title": "bear_018"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_019.png",
+    "image": "file:///android_asset/view/bear_019.png",
+    "title": "bear_019"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_020.png",
+    "image": "file:///android_asset/view/bear_020.png",
+    "title": "bear_020"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_021.png",
+    "image": "file:///android_asset/view/bear_021.png",
+    "title": "bear_021"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_022.png",
+    "image": "file:///android_asset/view/bear_022.png",
+    "title": "bear_022"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_023.png",
+    "image": "file:///android_asset/view/bear_023.png",
+    "title": "bear_023"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_024.png",
+    "image": "file:///android_asset/view/bear_024.png",
+    "title": "bear_024"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_025.png",
+    "image": "file:///android_asset/view/bear_025.png",
+    "title": "bear_025"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_026.png",
+    "image": "file:///android_asset/view/bear_026.png",
+    "title": "bear_026"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_027.png",
+    "image": "file:///android_asset/view/bear_027.png",
+    "title": "bear_027"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_028.png",
+    "image": "file:///android_asset/view/bear_028.png",
+    "title": "bear_028"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_029.png",
+    "image": "file:///android_asset/view/bear_029.png",
+    "title": "bear_029"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_030.png",
+    "image": "file:///android_asset/view/bear_030.png",
+    "title": "bear_030"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_031.png",
+    "image": "file:///android_asset/view/bear_031.png",
+    "title": "bear_031"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_032.png",
+    "image": "file:///android_asset/view/bear_032.png",
+    "title": "bear_032"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_033.png",
+    "image": "file:///android_asset/view/bear_033.png",
+    "title": "bear_033"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_034.png",
+    "image": "file:///android_asset/view/bear_034.png",
+    "title": "bear_034"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_035.png",
+    "image": "file:///android_asset/view/bear_035.png",
+    "title": "bear_035"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_036.png",
+    "image": "file:///android_asset/view/bear_036.png",
+    "title": "bear_036"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_037.png",
+    "image": "file:///android_asset/view/bear_037.png",
+    "title": "bear_037"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_038.png",
+    "image": "file:///android_asset/view/bear_038.png",
+    "title": "bear_038"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_039.png",
+    "image": "file:///android_asset/view/bear_039.png",
+    "title": "bear_039"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_040.png",
+    "image": "file:///android_asset/view/bear_040.png",
+    "title": "bear_040"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_041.png",
+    "image": "file:///android_asset/view/bear_041.png",
+    "title": "bear_041"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_042.png",
+    "image": "file:///android_asset/view/bear_042.png",
+    "title": "bear_042"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_043.png",
+    "image": "file:///android_asset/view/bear_043.png",
+    "title": "bear_043"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_044.png",
+    "image": "file:///android_asset/view/bear_044.png",
+    "title": "bear_044"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_045.png",
+    "image": "file:///android_asset/view/bear_045.png",
+    "title": "bear_045"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_046.png",
+    "image": "file:///android_asset/view/bear_046.png",
+    "title": "bear_046"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_047.png",
+    "image": "file:///android_asset/view/bear_047.png",
+    "title": "bear_047"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_048.png",
+    "image": "file:///android_asset/view/bear_048.png",
+    "title": "bear_048"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_049.png",
+    "image": "file:///android_asset/view/bear_049.png",
+    "title": "bear_049"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_050.png",
+    "image": "file:///android_asset/view/bear_050.png",
+    "title": "bear_050"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_051.png",
+    "image": "file:///android_asset/view/bear_051.png",
+    "title": "bear_051"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_052.png",
+    "image": "file:///android_asset/view/bear_052.png",
+    "title": "bear_052"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_053.png",
+    "image": "file:///android_asset/view/bear_053.png",
+    "title": "bear_053"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_054.png",
+    "image": "file:///android_asset/view/bear_054.png",
+    "title": "bear_054"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_055.png",
+    "image": "file:///android_asset/view/bear_055.png",
+    "title": "bear_055"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_056.png",
+    "image": "file:///android_asset/view/bear_056.png",
+    "title": "bear_056"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_057.png",
+    "image": "file:///android_asset/view/bear_057.png",
+    "title": "bear_057"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_058.png",
+    "image": "file:///android_asset/view/bear_058.png",
+    "title": "bear_058"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_059.png",
+    "image": "file:///android_asset/view/bear_059.png",
+    "title": "bear_059"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_060.png",
+    "image": "file:///android_asset/view/bear_060.png",
+    "title": "bear_060"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_061.png",
+    "image": "file:///android_asset/view/bear_061.png",
+    "title": "bear_061"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_062.png",
+    "image": "file:///android_asset/view/bear_062.png",
+    "title": "bear_062"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_063.png",
+    "image": "file:///android_asset/view/bear_063.png",
+    "title": "bear_063"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_064.png",
+    "image": "file:///android_asset/view/bear_064.png",
+    "title": "bear_064"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_065.png",
+    "image": "file:///android_asset/view/bear_065.png",
+    "title": "bear_065"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_066.png",
+    "image": "file:///android_asset/view/bear_066.png",
+    "title": "bear_066"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_067.png",
+    "image": "file:///android_asset/view/bear_067.png",
+    "title": "bear_067"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_068.png",
+    "image": "file:///android_asset/view/bear_068.png",
+    "title": "bear_068"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_069.png",
+    "image": "file:///android_asset/view/bear_069.png",
+    "title": "bear_069"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_070.png",
+    "image": "file:///android_asset/view/bear_070.png",
+    "title": "bear_070"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_071.png",
+    "image": "file:///android_asset/view/bear_071.png",
+    "title": "bear_071"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_072.png",
+    "image": "file:///android_asset/view/bear_072.png",
+    "title": "bear_072"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_073.png",
+    "image": "file:///android_asset/view/bear_073.png",
+    "title": "bear_073"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_074.png",
+    "image": "file:///android_asset/view/bear_074.png",
+    "title": "bear_074"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_075.png",
+    "image": "file:///android_asset/view/bear_075.png",
+    "title": "bear_075"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_076.png",
+    "image": "file:///android_asset/view/bear_076.png",
+    "title": "bear_076"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_077.png",
+    "image": "file:///android_asset/view/bear_077.png",
+    "title": "bear_077"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_078.png",
+    "image": "file:///android_asset/view/bear_078.png",
+    "title": "bear_078"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_079.png",
+    "image": "file:///android_asset/view/bear_079.png",
+    "title": "bear_079"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_080.png",
+    "image": "file:///android_asset/view/bear_080.png",
+    "title": "bear_080"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_081.png",
+    "image": "file:///android_asset/view/bear_081.png",
+    "title": "bear_081"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_082.png",
+    "image": "file:///android_asset/view/bear_082.png",
+    "title": "bear_082"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_083.png",
+    "image": "file:///android_asset/view/bear_083.png",
+    "title": "bear_083"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_084.png",
+    "image": "file:///android_asset/view/bear_084.png",
+    "title": "bear_084"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_085.png",
+    "image": "file:///android_asset/view/bear_085.png",
+    "title": "bear_085"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_086.png",
+    "image": "file:///android_asset/view/bear_086.png",
+    "title": "bear_086"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_087.png",
+    "image": "file:///android_asset/view/bear_087.png",
+    "title": "bear_087"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_088.png",
+    "image": "file:///android_asset/view/bear_088.png",
+    "title": "bear_088"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_089.png",
+    "image": "file:///android_asset/view/bear_089.png",
+    "title": "bear_089"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_090.png",
+    "image": "file:///android_asset/view/bear_090.png",
+    "title": "bear_090"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_091.png",
+    "image": "file:///android_asset/view/bear_091.png",
+    "title": "bear_091"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_092.png",
+    "image": "file:///android_asset/view/bear_092.png",
+    "title": "bear_092"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_093.png",
+    "image": "file:///android_asset/view/bear_093.png",
+    "title": "bear_093"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_094.png",
+    "image": "file:///android_asset/view/bear_094.png",
+    "title": "bear_094"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_095.png",
+    "image": "file:///android_asset/view/bear_095.png",
+    "title": "bear_095"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_096.png",
+    "image": "file:///android_asset/view/bear_096.png",
+    "title": "bear_096"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_097.png",
+    "image": "file:///android_asset/view/bear_097.png",
+    "title": "bear_097"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_098.png",
+    "image": "file:///android_asset/view/bear_098.png",
+    "title": "bear_098"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_099.png",
+    "image": "file:///android_asset/view/bear_099.png",
+    "title": "bear_099"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_100.png",
+    "image": "file:///android_asset/view/bear_100.png",
+    "title": "bear_100"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_101.png",
+    "image": "file:///android_asset/view/bear_101.png",
+    "title": "bear_101"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_102.png",
+    "image": "file:///android_asset/view/bear_102.png",
+    "title": "bear_102"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_103.png",
+    "image": "file:///android_asset/view/bear_103.png",
+    "title": "bear_103"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_104.png",
+    "image": "file:///android_asset/view/bear_104.png",
+    "title": "bear_104"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_105.png",
+    "image": "file:///android_asset/view/bear_105.png",
+    "title": "bear_105"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_106.png",
+    "image": "file:///android_asset/view/bear_106.png",
+    "title": "bear_106"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_107.png",
+    "image": "file:///android_asset/view/bear_107.png",
+    "title": "bear_107"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_108.png",
+    "image": "file:///android_asset/view/bear_108.png",
+    "title": "bear_108"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_109.png",
+    "image": "file:///android_asset/view/bear_109.png",
+    "title": "bear_109"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_110.png",
+    "image": "file:///android_asset/view/bear_110.png",
+    "title": "bear_110"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_111.png",
+    "image": "file:///android_asset/view/bear_111.png",
+    "title": "bear_111"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_112.png",
+    "image": "file:///android_asset/view/bear_112.png",
+    "title": "bear_112"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_113.png",
+    "image": "file:///android_asset/view/bear_113.png",
+    "title": "bear_113"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_114.png",
+    "image": "file:///android_asset/view/bear_114.png",
+    "title": "bear_114"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_115.png",
+    "image": "file:///android_asset/view/bear_115.png",
+    "title": "bear_115"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_116.png",
+    "image": "file:///android_asset/view/bear_116.png",
+    "title": "bear_116"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_117.png",
+    "image": "file:///android_asset/view/bear_117.png",
+    "title": "bear_117"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_118.png",
+    "image": "file:///android_asset/view/bear_118.png",
+    "title": "bear_118"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_119.png",
+    "image": "file:///android_asset/view/bear_119.png",
+    "title": "bear_119"
+  },
+  {
+    "name_category": "minecraft google play",
+    "id": 1,
+    "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/bear/install/bear_120.png",
+    "image": "file:///android_asset/view/bear_120.png",
+    "title": "bear_120"
+  }
+]
+}
