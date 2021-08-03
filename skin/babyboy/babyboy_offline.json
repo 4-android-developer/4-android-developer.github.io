@@ -1,0 +1,457 @@
+{
+  "Ads": [
+    {
+      "select_ads": "",
+      "select_ads_banner": "",
+      "select_ads_native": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-6026900188964442/7814713864",
+      "admob_nativeid": "ca-app-pub-6026900188964442/3875468857",
+      "admob_nativeid_besar": "ca-app-pub-6026900188964442/9482663537",
+      "admob_openid": "ca-app-pub-6026900188964442/4996978839",
+      "interval_intertitial": "3",
+      "startappid": "",
+      "fan_inter": "",
+      "fan_banner_native": "",
+      "fan_native": "",
+      "mopub_banner": "",
+      "mopub_banner_medium": "",
+      "mopub_inter": "",
+      "applovin_mrec": "ecaf2ae5b9a19203",
+      "applovin_banner": "eced39ff5b6e7d2c",
+      "applovin_inter": "12943b33f050219e",
+      "unityID": "4230947",
+      "unity_inter": "Interstitial_Android",
+      "unity_banner": "Banner_Android",
+      "select_exit": "1",
+      "icon_promote": "https://play-lh.googleusercontent.com/PaPDA3fwetBeFtzA9mLxY7YfZol1nesCyuIASLZdJGwpVbTDYZBM-zMiETcb1f1v77A=s180-rw",
+      "judul_promote": "Spiderman Skin MCPE",
+      "deskripsi_promote": "Spiderman",
+      "gambar_promote": "https://play-lh.googleusercontent.com/PaPDA3fwetBeFtzA9mLxY7YfZol1nesCyuIASLZdJGwpVbTDYZBM-zMiETcb1f1v77A=s180-rw",
+      "link_promote": "https://play.google.com/store/apps/details?id=com.starladev.spiderman.skin.mcpe",
+      "on_off_category": "0",
+      "on_off_more_app": "1",
+      "tutorial": "https://sites.google.com/view/tutorialchangeskinmcpe/home",
+      "hpk_bambank": "",
+      "hpk_admob1": "",
+      "hpk_admob2": "",
+      "hpk_admob3": "",
+      "hpk_admob4": "",
+      "hpk_admob5": ""
+    }
+  ],
+  "More": [
+    {
+      "id": 1,
+      "title": "Spiderman Skins",
+      "image": "https://play-lh.googleusercontent.com/PaPDA3fwetBeFtzA9mLxY7YfZol1nesCyuIASLZdJGwpVbTDYZBM-zMiETcb1f1v77A=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.spiderman.skin.mcpe"
+    },
+    {
+      "id": 2,
+      "title": "Medieval Skins",
+      "image": "https://play-lh.googleusercontent.com/fkDUSiFtkV2GovgvAoNGCv1Oe3_2-W9yMEUZsF-SpZ_hIEFStlGHhQr-e3AI4uY13Hw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.medieval.skin.mcpe"
+    },
+    {
+      "id": 3,
+      "title": "Kamen Rider Skins",
+      "image": "https://play-lh.googleusercontent.com/ZFvcBrr7Ic5Uf5yjOhMSxNL93BaCWKmLh4k8NjgVMoXh3ESnCBnGTDlnBVneJLnbFQ-d=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.kamen.rider.skin.mcpe"
+    },
+    {
+      "id": 4,
+      "title": "Frost Skins",
+      "image": "https://play-lh.googleusercontent.com/Bngf6kq9BVb5GuMk18b4S7NvdU_OEtXMfeCZdgEkPzK58avjG5nmxA53FLW-KkT-jA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.gamaotanker.frostdiamond_skin_minecraft"
+    },
+    {
+      "id": 5,
+      "title": "Naruto Skins",
+      "image": "https://play-lh.googleusercontent.com/zC7FbH7GX5p2jJBw2tKZ-eiI9AyWWazWWL5RPJj4oXfKMWqbrNhYFohgEl9042NzRg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.gamaotanker.naruto_skin_minecraft"
+    },
+    {
+      "id": 6,
+      "title": "Akatsuki Skins",
+      "image": "https://play-lh.googleusercontent.com/J3W4hO1xi7D-z_SbvoXeNCSIuGMqbPKczyVj6QxNj3HFcO44sAx3XysCKVO7QcHTVUrD=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.gamaotanker.akatsuki_skin_minecraft"
+    },
+    {
+      "id": 7,
+      "title": "Aestethic Skins",
+      "image": "https://play-lh.googleusercontent.com/Q4aB_6jkmdxQP22UWFnesB-K1dvZ-ouLTSZBNDx2IlIFSPbnJvEIln7DrcIhwse8rK5p=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.gamaotanker.aesthetic_skin_minecraft"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "minecraft google play",
+      "image": "https://lh3.googleusercontent.com/d/https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "mcpe play",
+      "image": "https://lh3.googleusercontent.com/d/http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "minecraft play store",
+      "image": "https://lh3.googleusercontent.com/d/file:///android_asset/image/car.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_01.png",
+      "image": "file:///android_asset/view/babyboy_01.png",
+      "title": "Babyboy_01"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_02.png",
+      "image": "file:///android_asset/view/babyboy_02.png",
+      "title": "Babyboy_02"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_03.png",
+      "image": "file:///android_asset/view/babyboy_03.png",
+      "title": "Babyboy_03"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_04.png",
+      "image": "file:///android_asset/view/babyboy_04.png",
+      "title": "Babyboy_04"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_05.png",
+      "image": "file:///android_asset/view/babyboy_05.png",
+      "title": "Babyboy_05"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_06.png",
+      "image": "file:///android_asset/view/babyboy_06.png",
+      "title": "Babyboy_06"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_07.png",
+      "image": "file:///android_asset/view/babyboy_07.png",
+      "title": "Babyboy_07"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_08.png",
+      "image": "file:///android_asset/view/babyboy_08.png",
+      "title": "Babyboy_08"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_09.png",
+      "image": "file:///android_asset/view/babyboy_09.png",
+      "title": "Babyboy_09"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_10.png",
+      "image": "file:///android_asset/view/babyboy_10.png",
+      "title": "Babyboy_10"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_11.png",
+      "image": "file:///android_asset/view/babyboy_11.png",
+      "title": "Babyboy_11"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_12.png",
+      "image": "file:///android_asset/view/babyboy_12.png",
+      "title": "Babyboy_12"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_13.png",
+      "image": "file:///android_asset/view/babyboy_13.png",
+      "title": "Babyboy_13"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_14.png",
+      "image": "file:///android_asset/view/babyboy_14.png",
+      "title": "Babyboy_14"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_15.png",
+      "image": "file:///android_asset/view/babyboy_15.png",
+      "title": "Babyboy_15"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_16.png",
+      "image": "file:///android_asset/view/babyboy_16.png",
+      "title": "Babyboy_16"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_17.png",
+      "image": "file:///android_asset/view/babyboy_17.png",
+      "title": "Babyboy_17"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_18.png",
+      "image": "file:///android_asset/view/babyboy_18.png",
+      "title": "Babyboy_18"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_19.png",
+      "image": "file:///android_asset/view/babyboy_19.png",
+      "title": "Babyboy_19"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_20.png",
+      "image": "file:///android_asset/view/babyboy_20.png",
+      "title": "Babyboy_20"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_21.png",
+      "image": "file:///android_asset/view/babyboy_21.png",
+      "title": "Babyboy_21"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_22.png",
+      "image": "file:///android_asset/view/babyboy_22.png",
+      "title": "Babyboy_22"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_23.png",
+      "image": "file:///android_asset/view/babyboy_23.png",
+      "title": "Babyboy_23"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_24.png",
+      "image": "file:///android_asset/view/babyboy_24.png",
+      "title": "Babyboy_24"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_25.png",
+      "image": "file:///android_asset/view/babyboy_25.png",
+      "title": "Babyboy_25"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_26.png",
+      "image": "file:///android_asset/view/babyboy_26.png",
+      "title": "Babyboy_26"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_27.png",
+      "image": "file:///android_asset/view/babyboy_27.png",
+      "title": "Babyboy_27"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_28.png",
+      "image": "file:///android_asset/view/babyboy_28.png",
+      "title": "Babyboy_28"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_29.png",
+      "image": "file:///android_asset/view/babyboy_29.png",
+      "title": "Babyboy_29"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_30.png",
+      "image": "file:///android_asset/view/babyboy_30.png",
+      "title": "Babyboy_30"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_31.png",
+      "image": "file:///android_asset/view/babyboy_31.png",
+      "title": "Babyboy_31"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_32.png",
+      "image": "file:///android_asset/view/babyboy_32.png",
+      "title": "Babyboy_32"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_33.png",
+      "image": "file:///android_asset/view/babyboy_33.png",
+      "title": "Babyboy_33"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_34.png",
+      "image": "file:///android_asset/view/babyboy_34.png",
+      "title": "Babyboy_34"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_35.png",
+      "image": "file:///android_asset/view/babyboy_35.png",
+      "title": "Babyboy_35"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_36.png",
+      "image": "file:///android_asset/view/babyboy_36.png",
+      "title": "Babyboy_36"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_37.png",
+      "image": "file:///android_asset/view/babyboy_37.png",
+      "title": "Babyboy_37"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_38.png",
+      "image": "file:///android_asset/view/babyboy_38.png",
+      "title": "Babyboy_38"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_39.png",
+      "image": "file:///android_asset/view/babyboy_39.png",
+      "title": "Babyboy_39"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_40.png",
+      "image": "file:///android_asset/view/babyboy_40.png",
+      "title": "Babyboy_40"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_41.png",
+      "image": "file:///android_asset/view/babyboy_41.png",
+      "title": "Babyboy_41"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_42.png",
+      "image": "file:///android_asset/view/babyboy_42.png",
+      "title": "Babyboy_42"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_43.png",
+      "image": "file:///android_asset/view/babyboy_43.png",
+      "title": "Babyboy_43"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_44.png",
+      "image": "file:///android_asset/view/babyboy_44.png",
+      "title": "Babyboy_44"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_45.png",
+      "image": "file:///android_asset/view/babyboy_45.png",
+      "title": "Babyboy_45"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_46.png",
+      "image": "file:///android_asset/view/babyboy_46.png",
+      "title": "Babyboy_46"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_47.png",
+      "image": "file:///android_asset/view/babyboy_47.png",
+      "title": "Babyboy_47"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_48.png",
+      "image": "file:///android_asset/view/babyboy_48.png",
+      "title": "Babyboy_48"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_49.png",
+      "image": "file:///android_asset/view/babyboy_49.png",
+      "title": "Babyboy_49"
+    },
+    {
+      "name_category": "minecraft google play",
+      "id": 1,
+      "skin": "https://raw.githubusercontent.com/packbambank/packbambank.github.io/main/skin/babyboy/install/babyboy_50.png",
+      "image": "file:///android_asset/view/babyboy_50.png",
+      "title": "Babyboy_50"
+    }
+  ]
+}
